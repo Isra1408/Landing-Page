@@ -186,3 +186,13 @@ img {
     font-weight: bold;
     border: 2px solid white;
 }
+
+.footer {
+    height: 70px;
+    background: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9FAF8;
+    font-family: Roboto, sans-serif;
+}
